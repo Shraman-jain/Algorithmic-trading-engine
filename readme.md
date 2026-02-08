@@ -130,7 +130,7 @@ python src/engine.py
 
 ### Multi-Timeframe Analysis
 - Daily, Weekly, Monthly OHLC aggregation
-- Rolling moving averages (9-day, 200-day)
+- Rolling moving averages 
 - Efficient indicator updates using deques
 
 ### Risk Management
